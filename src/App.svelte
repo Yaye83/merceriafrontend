@@ -5,8 +5,8 @@
   import Contenido      from "./Contenido.svelte";
   
   const URL = {
-    mercancias :  "https://merceriabackend.herokuapp.com/api/mercancias/",
-    proveedores :   "https://merceriabackend.herokuapp.com/api/proveedores/"
+    mercancias :  "https://appbackend.herokuapp.com/api/mercancias/",
+    proveedores :   "https://appbackend.herokuapp.com/api/proveedores/"
   };
   setContext("URL", URL);
 </script>
