@@ -61,7 +61,7 @@
   <small>
     Backend en
     <a href="https://merceriabackend.herokuapp.com">
-      https://merceriabackend.herokuapp.com
+      https://appbackend.herokuapp.com/api
     </a>
   </small>
 </p>
